@@ -40,7 +40,7 @@ function Valid() {
     }
     return(
         <div className='wrapper'>
-        <h1>Contact Us</h1>
+        <h1>Contact You</h1>
         <form onSubmit={click}>
       <div className='each'>
       <label htmlFor=''>First Name *</label>
