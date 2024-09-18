@@ -8,7 +8,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #73BAE9;
+  background-color: #f00;
+  /* background-color: #73BAE9; */
 }
 div.wrapper{
   background-color: #fff;
